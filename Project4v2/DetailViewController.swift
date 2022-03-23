@@ -1,9 +1,3 @@
-//
-//  DetailViewController.swift
-//  Project4v2
-//
-//  Created by Harun Fazlic on 22. 3. 2022..
-//
 
 import UIKit
 import WebKit

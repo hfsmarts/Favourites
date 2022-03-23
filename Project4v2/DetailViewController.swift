@@ -23,7 +23,6 @@ class DetailViewController: UIViewController, WKNavigationDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
    
-        
 let url = URL(string: "https://" + selectedSite!)!
         webView.load(URLRequest(url: url))
         webView.allowsBackForwardNavigationGestures = true

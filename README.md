@@ -8,7 +8,7 @@ Have all your favorite websites in one place, open, close and navigate through t
   </p>
 
   <p align="left">
-This small demo app is build using UIKit and WebKit. In the ViewController file delcared websites array can be changed, new elements can be added to array. Elements will appear in a table view. Adding new elements to the array in format of website.domain will add new clilkable row to your table, and you are able to open your new favourite website.
+This small demo app is build using UIKit and WebKit. In the ViewController file delcared websites array can be changed, new elements can be added to array and will appear in a table view. Adding new elements to the array in format of website.domain will add new clilkable row to your table. And you are able to open your new favourite website.
 </p>
 
   <p align="left">

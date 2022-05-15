@@ -16,6 +16,6 @@ This small project was part of hackingwithswift.com course 100 Days of Swift
 </p>
 
 
-![](images/github/view1.png)
+![](images/view1.png)
 
-![](images/github/view2.png)
+![](images/view2.png)

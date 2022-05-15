@@ -15,7 +15,7 @@ This small demo app is build using UIKit and WebKit. In the ViewController file 
 This small project was part of hackingwithswift.com course 100 Days of Swift
 </p>
 
-<img src="images/view1.png" width = 100>
+<img src="images/view1.png" width = "100">
 
 
 ![](images/view1.png)

@@ -12,12 +12,11 @@ This small demo app is build using UIKit and WebKit. In the ViewController file 
 </p>
 
   <p align="left">
-This small project was part of hackingwithswift.com course 100 Days of Swift
+This small project was part of hackingwithswift.com course 100 Days of Swift.
 </p>
 
-<img src="images/view1.png" width = "100">
+<div align="center">
+<img src="images/view1.PNG" height="800">
+<img src="images/view2.PNG" height="800">
+</div>
 
-
-![](images/view1.png)
-
-![](images/view2.png)
